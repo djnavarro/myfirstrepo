@@ -25,9 +25,9 @@ It's easy to create links to [your favourite website](https://compcogscisydney.o
 
 You can comment out things if you don't want them to render. So, for instance, if I decide that I *don't* want to display the puppies that Mathew Ling inserted, I can hide them...
 
-<!--
+
 ![Puppies are better than kittens](https://images.unsplash.com/photo-1519150268069-c094cfc0b3c8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6e6932150f4fa2cc38e1712f464da47e&auto=format&fit=crop&w=1078&q=80)
--->
+
 
 
 ... See, no puppies. (Actually, this is useful to note because the way I've done this is by using "raw" HTML. If you know HTML, you can always insert that into a Markdown document)
@@ -50,6 +50,6 @@ Plus a lot of other things, like adding animated GIFs...
 
 ![Adding gifs](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
-
+![](blah.png)
 
 
