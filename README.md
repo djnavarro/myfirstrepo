@@ -50,6 +50,6 @@ Plus a lot of other things, like adding animated GIFs...
 
 ![Adding gifs](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
-
+![Ducks are superior](https://media.giphy.com/media/13vsslMS9wATg4/giphy.gif)
 
 
