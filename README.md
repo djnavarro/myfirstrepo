@@ -13,6 +13,7 @@ system(
 
 # Markdown
 
+
 The sections to this document partly accompany the notes...
 
 ## Markdown
@@ -50,6 +51,6 @@ Plus a lot of other things, like adding animated GIFs...
 
 ![Adding gifs](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
-
+![](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif) 
 
 
